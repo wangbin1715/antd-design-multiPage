@@ -12,9 +12,9 @@ Runs the app
 
 in the development mode:<br>
 ### `npm start`
-Open [http://localhost:8888](http://localshot:8888) or 
+Open [http://localhost:3000](http://localshot:3000) or 
 
-[http://yourIP:8888](http://yourIP:8888) to view it in the browser.
+[http://yourIP:3000](http://yourIP:3000) to view it in the browser.
 The page will reload if you make 
 
 edits.<br>
